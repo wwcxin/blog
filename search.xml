@@ -83,31 +83,6 @@
     
     
     <entry>
-      <title>【kivibot】框架部署至宝塔教程（群友专用）</title>
-      <link href="/2022/06/02/%E3%80%90kivibot%E3%80%91%E6%A1%86%E6%9E%B6%E9%83%A8%E7%BD%B2%E8%87%B3%E5%AE%9D%E5%A1%94%E6%95%99%E7%A8%8B%EF%BC%88%E7%BE%A4%E5%8F%8B%E4%B8%93%E7%94%A8%EF%BC%89/"/>
-      <url>/2022/06/02/%E3%80%90kivibot%E3%80%91%E6%A1%86%E6%9E%B6%E9%83%A8%E7%BD%B2%E8%87%B3%E5%AE%9D%E5%A1%94%E6%95%99%E7%A8%8B%EF%BC%88%E7%BE%A4%E5%8F%8B%E4%B8%93%E7%94%A8%EF%BC%89/</url>
-      
-        <content type="html"><![CDATA[<p>本项目为 <code>kivibot</code> 框架专用，禁止用于其他用途</p><blockquote><p>注： <strong>请确保kivibot框架在你的本地已配置登录好</strong></p></blockquote><h1 id="修改运行进程名称以防冲突"><a href="#修改运行进程名称以防冲突" class="headerlink" title="修改运行进程名称以防冲突"></a>修改运行进程名称以防冲突</h1><ul><li>修改进程名</li></ul><blockquote><p>将框架目录内的 <code>package.json</code> 文件中的 <code>所有</code> “ <code>kivibot</code> “ 修改为机器人QQ</p></blockquote><img src="https://s1.328888.xyz/2022/06/02/WG88R.png"><h1 id="上传至服务器"><a href="#上传至服务器" class="headerlink" title="上传至服务器"></a>上传至服务器</h1><ul><li>压缩整个框架目录</li></ul><p>框架目录右键选择压缩为 <code>机器人QQ.zip</code> </p><ul><li>服务器新建机器人QQ文件夹</li></ul><img src="https://s1.328888.xyz/2022/06/02/WGWEd.png"><ul><li><p>进入文件夹后直接上传框架文件压缩包</p></li><li><p>直接双击解压并确定</p></li></ul><h1 id="添加-node-项目"><a href="#添加-node-项目" class="headerlink" title="添加 node 项目"></a>添加 <code>node</code> 项目</h1><ul><li>在 <code>网站</code> 、 <code>node</code> 中新增 <code>node</code> 项目并选择正确的目录</li></ul><blockquote><p>如果一切按照教程走应该是这样的</p></blockquote><img src="https://s1.328888.xyz/2022/06/02/WGRb2.png"><blockquote><p>项目端口填 10000 以上 100000 以下的任意数字都可</p></blockquote><blockquote><p>点击“ <code>提交</code> ”即可完成</p></blockquote><h1 id="赞助码"><a href="#赞助码" class="headerlink" title="赞助码"></a>赞助码</h1><blockquote><p>本项目为个人电脑搭建，采用赞助模式维持运作，请自觉赞助</p></blockquote><img src="/img/skm.png">]]></content>
-      
-      
-      <categories>
-          
-          <category> 教程 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> kivibot </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>摸鱼云PCDN技术和应用简介</title>
       <link href="/2022/05/25/%E6%91%B8%E9%B1%BC%E4%BA%91PCDN%E6%8A%80%E6%9C%AF%E5%92%8C%E5%BA%94%E7%94%A8%E7%AE%80%E4%BB%8B/"/>
       <url>/2022/05/25/%E6%91%B8%E9%B1%BC%E4%BA%91PCDN%E6%8A%80%E6%9C%AF%E5%92%8C%E5%BA%94%E7%94%A8%E7%AE%80%E4%BB%8B/</url>
